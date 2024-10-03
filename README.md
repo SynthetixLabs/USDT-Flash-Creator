@@ -56,7 +56,7 @@ USDT-Flash-Creator/
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/USDT-Flash-Creator.git
+   git clone https://github.com/SynthetixLabs/USDT-Flash-Creator.git
    ```
 
 2. Install Python dependencies:
